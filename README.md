@@ -1,2 +1,10 @@
-# CodeAlpha_Music_Player
-The architecture, which is divided into three buckets, will be used: CSS (Cascading Style Sheets (adding styling to each element defined in the HTML file) JavaScript is a programming language that allows you to (adding elements for audio, player buttons, and music information) (when HTML elements are clicked, functionality is added)
+# Music-Player with JavaScript
+
+Function
+1) Random Song
+2) Previous Song
+3) Next Song
+4) Repeat Song
+
+The Layout Design of Music Player
+![Screenshot 2023-02-01 110931](https://user-images.githubusercontent.com/86345777/215935830-07cfc994-c4f7-421c-91c5-f2ad7a0d42d4.png)
